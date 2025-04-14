@@ -1,4 +1,6 @@
-# DS202-Project_GBWT
+# DS202-Project_Pan Genomic Indexing and Search using Generalized BWT
+
+Presented by PULI SUHAS REDDY and ABHINAV RAGHUNATHAN
 
 ## Prerequisites
 
